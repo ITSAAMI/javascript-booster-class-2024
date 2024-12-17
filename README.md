@@ -63,11 +63,13 @@ bush
 - If you wish to contribute, feel free to submit a pull request.
 
   ## Connect with Me
-[Syed Amir Hayat Kakakhel](https://github.com/ITSAAMI)
-
+  
+Syed Amir Hayat Kakakhel
 - GitHub: [Syed Amir](https://github.com/ITSAAMI)
 - LinkedIn: [Syed Amir ](https://www.linkedin.com/in/itsaami)
-- YouTube: Your Channel
+- YouTube: [Code Academy](https://www.youtube.com/@icodeacademy)
 - Facebook: [Syed Amir Hayat Kakakhel](https://www.facebook.com/itsaami)
+
+## Let's learn and grow together 🚀!
 
 
