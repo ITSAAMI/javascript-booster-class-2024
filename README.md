@@ -1,5 +1,5 @@
 # jJavaScript Booster Class 2024
-**Instructor:** {Syed Amir Hayat Kakakhel}[https://github.com/ITSAAMI]
+**Instructor:** (Syed Amir Hayat Kakakhel)[https://github.com/ITSAAMI]
 
 ## Overview
 
@@ -37,4 +37,17 @@ This booster class focuses on the following JavaScript concepts:
 - API Integration (Fetching Data)
 - Problem Solving and Algorithms
 
+## Who is This For?
+
+- Students learning JavaScript from scratch
+- Intermediate developers looking to boost their skills
+- Participants of the 2024 Online/In-Person Booster Class
+
+## How to Use This Repository
+1. Clone the repository:
+
+  git clone https://github.com/your-username/javascript-booster-class-2024.git
+
+2. Open the folders and follow the organized topics step-by-step.
+3. Run the examples locally in your favorite browser or code editor
 
