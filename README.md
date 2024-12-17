@@ -48,7 +48,7 @@ This booster class focuses on the following JavaScript concepts:
    
 bush
 
-     ``` git clone https://github.com/ITSAAMI/javascript-booster-class-2024.git```
+     ```git clone https://github.com/ITSAAMI/javascript-booster-class-2024.git```
 
 3. Open the folders and follow the organized topics step-by-step.
 4. Run the examples locally in your favorite browser or code editor
