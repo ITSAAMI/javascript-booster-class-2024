@@ -46,7 +46,7 @@ This booster class focuses on the following JavaScript concepts:
 ## How to Use This Repository
 1. Clone the repository:
 
-  git clone https://github.com/your-username/javascript-booster-class-2024.git
+  `git clone https://github.com/your-username/javascript-booster-class-2024.git`
 
 2. Open the folders and follow the organized topics step-by-step.
 3. Run the examples locally in your favorite browser or code editor
