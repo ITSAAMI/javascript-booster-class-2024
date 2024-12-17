@@ -45,11 +45,13 @@ This booster class focuses on the following JavaScript concepts:
 
 ## How to Use This Repository
 1. Clone the repository:
+   
 bush
-      ```<pre> git clone https://github.com/ITSAAMI/javascript-booster-class-2024.git``` </pre>
 
-2. Open the folders and follow the organized topics step-by-step.
-3. Run the examples locally in your favorite browser or code editor
+     <pre> ``` git clone https://github.com/ITSAAMI/javascript-booster-class-2024.git``` </pre>
+
+3. Open the folders and follow the organized topics step-by-step.
+4. Run the examples locally in your favorite browser or code editor
 
 ## Requirements
 - Basic understanding of HTML/CSS
@@ -63,9 +65,9 @@ bush
   ## Connect with Me
 [Syed Amir Hayat Kakakhel](https://github.com/ITSAAMI)
 
-GitHub: [Syed Amir](https://github.com/ITSAAMI)
-LinkedIn: [Syed Amir ](https://www.linkedin.com/in/itsaami)
-YouTube: Your Channel
-Facebook: [Syed Amir Hayat Kakakhel](https://www.facebook.com/itsaami)
+- GitHub: [Syed Amir](https://github.com/ITSAAMI)
+- LinkedIn: [Syed Amir ](https://www.linkedin.com/in/itsaami)
+- YouTube: Your Channel
+- Facebook: [Syed Amir Hayat Kakakhel](https://www.facebook.com/itsaami)
 
 
